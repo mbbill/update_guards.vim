@@ -4,8 +4,10 @@ update_guards.vim
 Update c/c++ include guards
 
 Usage:
- :UpdateGuardThis
- :UpdateGuardRecursive
+
+    :UpdateGuardThis
+    :UpdateGuardRecursive
  
 Note:
- This script is used to 'update' not generate a include guard.
+
+    This script is used to 'update' not generate a include guard.
